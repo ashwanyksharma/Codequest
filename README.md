@@ -1,2 +1,3 @@
 # Codequest
-A Gamified DSA Platform
+
+A gamified DSA platform.
